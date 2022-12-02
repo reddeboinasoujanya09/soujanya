@@ -1,0 +1,10 @@
+import java.util.*;
+public class DEMO{
+public static void main(String ar[])
+{
+Scanner sc=new Scanner(System.in);
+System.out.println("hello user please enter t value:");
+int t=sc.nextInt();
+System.out.println(t);
+
+}}
